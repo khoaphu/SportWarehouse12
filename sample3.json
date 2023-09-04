@@ -1,0 +1,406 @@
+{
+  "url": "https://providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-tracker",
+  "date": "2023-07-01T06:42:18.806Z",
+  "tables": [
+    [
+      {},
+      {
+        "Legend": "B  Break",
+        "undefined": "Lodge"
+      },
+      {
+        "Legend": "S  Sent",
+        "undefined": "Transferred"
+      },
+      {
+        "Legend": "SD  System Derived",
+        "undefined": "Not Available"
+      },
+      {
+        "Legend": "PV  Payslip Verified Outcome"
+      }
+    ],
+    [
+      {
+        "": "HARLEY LYNCHID: 5316220View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116823826Start Date: 08/07/2022 P  P  N  N  N  N Claimed Partial 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "JULIE LIMBERTID: 3228854004View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116952280Start Date: 03/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "MELINDA ASLINID: 9418273809View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116888989Start Date: 03/09/2022 P  N  SD  N  N  P Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "ZOE BALDWINID: 326599709View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116884366Start Date: 03/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "EMMA BAKERID: 4841767609View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116883090Start Date: 03/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "VIJAY SINGHID: 21429080View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116892533Start Date: 05/09/2022 PV  PV  PV  PV  PV  PV Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "ANITH MUKHERJEEID: 8076291909View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116890693Start Date: 06/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "SAMUEL KEENANID: 2090343003View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116887781Start Date: 26/07/2022 N  N  F  F  F  F  N  F  F  P  N  P  P Non-Payable 4 WeekClaimed Partial 12 WeekClaimed Partial 26 Week"
+      },
+      {
+        "": "GRANT BILLINGSID: 2721792909View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116882288Start Date: 06/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "THOMAS AYADARMOIID: 9524298409View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116876928Start Date: 06/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "MARIEM ALIID: 6026782009View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116951552Start Date: 07/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "TASLIMA HAQUEID: 2462720809View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116892354Start Date: 07/09/2022 P  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "SABITHA HAYDENID: 5142860609View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116881645Start Date: 07/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "RHIANNON PERCYID: 16364230View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116827094Start Date: 13/07/2022 N  F  N  P  N  N Claimed Partial 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "DECLAN KEEF O'MULLANEID: 4766692709View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116966026Start Date: 08/09/2022 F  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "GRACE PANGEMANANID: 2318093809View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116940206Start Date: 08/09/2022 FA  FA  FA  FA  FA  FA Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "TENG DENGID: 883749509View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116898189Start Date: 08/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "LEANNE MCCARTNEYID: 1763957019View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116894812Start Date: 08/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "PETER GORSHENINID: 9517350View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116931448Start Date: 09/09/2022 P  N  F  F  F  F  N  N  N  N  N  N  N Non-Payable 4 WeekClaimed Partial 12 Week Non-Payable 26 Week"
+      },
+      {
+        "": "ANDREW HICKSID: 2009625004View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116895118Start Date: 09/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "CALEB WANDELID: 2887960View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116856214Start Date: 29/07/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "KAYLEARA TOFAEID: 7915816019View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116899383Start Date: 10/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "Julianna KadarID: 11469960View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116898740Start Date: 10/09/2022 F  N  N  N  SD  SD Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "MADISON SCOTTID: 2651713019View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116896235Start Date: 10/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "RHETT DUCKERID: 2940442019View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116896111Start Date: 10/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "MYLES PRANGELLID: 2603488409View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116895616Start Date: 10/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "ASHLEY KILEYID: 5607129509View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116849829Start Date: 13/08/2022 N  N  N  P  F  F Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "HIBA SROURID: 3713114509View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116930185Start Date: 12/09/2022 PV  PV  PV  PV  PV  PV Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "JANINE AQILID: 5391014019View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116933254Start Date: 13/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "MATTHEW ALFORDID: 5760100View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116894401Start Date: 13/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "TRINETTE MCDONALDID: 2900992309View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116891902Start Date: 13/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "ZACHARY ERWINID: 2867640View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116889711Start Date: 13/09/2022 N  N  N  N  N  P Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "JEFFREY SEENEYID: 7194674109View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116877938Start Date: 30/08/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "CHLOE BUSCHID: 16911550View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116912941Start Date: 14/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "RYAN DUMMETTID: 6565183004View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116912516Start Date: 14/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "SHAR'VEZ SINGHID: 3086802809View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116903052Start Date: 14/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "KYRIEA SKINNERID: 351629309View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116888184Start Date: 14/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "STACEY EDWARDSID: 5065751109View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116887855Start Date: 14/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "IMOGEN ROSBOROUGHID: 18069050View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116844518Start Date: 03/08/2022 N  N  N  N  N  FA  FA Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "JASON CALDWELLID: 1021331119View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116831334Start Date: 20/07/2022 P  P  N  N  N  N Claimed Partial 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "TRACEY HAWKINSID: 6393761003View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116920841Start Date: 15/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "KIM LEEID: 9033100View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116911291Start Date: 15/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "MARK MARUSICID: 1552543003View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116909746Start Date: 04/08/2022 N  N  P  P  P  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "SIMON BOLTONID: 9956232109View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116900472Start Date: 15/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "RODNEY WALKERID: 932683209View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116893478Start Date: 15/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "JOHN KERRID: 5346239109View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116890437Start Date: 15/09/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "BRANDON GERRISHID: 8793290909View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116846877Start Date: 04/08/2022 N  N  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "FLEUR OLIVERID: 5423782209View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116824281Start Date: 21/07/2022 N  P  N  N  P  N Claimed Partial 4 WeekNon-Payable 12 Week"
+      },
+      {
+        "": "HAYLEY BORCKID: 5478985709View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116907424Start Date: 16/09/2022 F  F  F  F  F  F Full 4 WeekFull 12 Week"
+      },
+      {
+        "": "KELLY MILTONID: 835290109View JobSeeker ProfileOutcome Type: PRO6 Employment OutcomeVacancy Referral:  116906141Start Date: 16/09/2022 N  P  N  N  N  N Non-Payable 4 WeekNon-Payable 12 Week"
+      }
+    ]
+  ],
+  "lists": [
+    [
+      "Workforce Australia Services MCTC - IL08",
+      "Khoa (MDRRXZ98)",
+      "Profile",
+      "Sign out"
+    ],
+    [],
+    [
+      "Profile",
+      "Sign out"
+    ],
+    [
+      "Caseload",
+      "Caseload",
+      "Access your caseload and search job seekers across sites.",
+      "Provider",
+      "Provider hub",
+      "See incoming and outgoing transfers, upload documents. View and search by contract and site information.",
+      "Calendar",
+      "Calendar hub",
+      "Book, reschedule, edit, cancel bookings, and enter attendance results.",
+      "Activity",
+      "Activity hub",
+      "Search for, create and manage existing activities.",
+      "Employment",
+      "Employment hub",
+      "All things employers, vacancies and referrals.",
+      "Payments",
+      "Payments hub",
+      "Request, process, approve and search payments. View outcome tracker.",
+      "Compliance",
+      "Compliance Hub",
+      "Create and search compliance.",
+      "Employment Fund",
+      "Employment Fund hub",
+      "Search, create and reimburse commitments. Search, add suppliers or qualified staff and manage requests.",
+      "Workforce Australia Services MCTC - IL08",
+      "Khoa (MDRRXZ98)",
+      "Profile",
+      "Sign out"
+    ],
+    [
+      "Caseload",
+      "Access your caseload and search job seekers across sites."
+    ],
+    [
+      "Provider hub",
+      "See incoming and outgoing transfers, upload documents. View and search by contract and site information."
+    ],
+    [
+      "Calendar hub",
+      "Book, reschedule, edit, cancel bookings, and enter attendance results."
+    ],
+    [
+      "Activity hub",
+      "Search for, create and manage existing activities."
+    ],
+    [
+      "Employment hub",
+      "All things employers, vacancies and referrals."
+    ],
+    [
+      "Payments hub",
+      "Request, process, approve and search payments. View outcome tracker."
+    ],
+    [
+      "Compliance Hub",
+      "Create and search compliance."
+    ],
+    [
+      "Employment Fund hub",
+      "Search, create and reimburse commitments. Search, add suppliers or qualified staff and manage requests."
+    ],
+    [],
+    [
+      "Profile",
+      "Sign out"
+    ],
+    [
+      "Previous",
+      "1",
+      "2",
+      "3",
+      "4",
+      "Next"
+    ],
+    [
+      "Previous",
+      "1",
+      "2",
+      "3",
+      "4",
+      "Next"
+    ],
+    [
+      "Activity hub",
+      "Calendar hub",
+      "Caseload",
+      "Employment Fund hub",
+      "Payments hub",
+      "Provider hub"
+    ],
+    [
+      "Provider portal",
+      "Find solutions to common problems",
+      "Get technical support",
+      "Ask a policy related question",
+      "Feedback survey",
+      "Privacy policy"
+    ]
+  ],
+  "links": [
+    "https:/providers.workforceaustralia.gov.au/ES/",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/payments-hub",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claimed-payments/payment-details/569935",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/5976",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/114482",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/114483",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/48302",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/48303",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/58306",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/58307",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/42887",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/42888",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/51631",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/51632",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/49927",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/49928",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/47257",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claimed-payments/payment-details/878661",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claimed-payments/payment-details/1730304",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/42146",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/42147",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/37762",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/37763",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/113819",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/113820",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/51460",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/51461",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/41566",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/41567",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claimed-payments/payment-details/836591",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/5402",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/130234",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/130235",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/101356",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/101357",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/58879",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/58880",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/53878",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/53879",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/91592",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claimed-payments/payment-details/1071949",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/277569",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/54186",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/54187",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/41252",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/41253",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/58432",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/58433",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/57777",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/57778",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/55309",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/55310",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/56003",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/56004",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/54731",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/54732",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/18910",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/18911",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/90327",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/90328",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/93672",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/93673",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/53484",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/53485",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/51074",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/51075",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/48972",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/48973",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/38540",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/38541",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/71885",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/71886",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/71464",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/71465",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/62018",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/62019",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/47594",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/47595",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/47309",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/47310",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/11337",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/11338",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claimed-payments/payment-details/698304",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/2198",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/82237",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/82238",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/70051",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/70052",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/68505",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/68506",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/59354",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/59355",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/52675",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/52676",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/49611",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/49612",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/13988",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/13989",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claimed-payments/payment-details/862047",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/20468",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/66333",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/66334",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/98446",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/claim-payments/pro6/outcome-detail/98447",
+    "https:/providers.workforceaustralia.gov.au/ES/activities",
+    "https:/providers.workforceaustralia.gov.au/ES/calendar-diary/calendar",
+    "https:/providers.workforceaustralia.gov.au/ES/caseload/search",
+    "https:/providers.workforceaustralia.gov.au/ES/employment-fund",
+    "https:/providers.workforceaustralia.gov.au/ES/payment/payments-hub",
+    "https:/providers.workforceaustralia.gov.au/ES/provider",
+    "https://ecsnaccess.gov.au/providerportal",
+    "https://dese.service-now.com/digitalsolutions?id=kb_category&kb_category=db9be2081b1b30109b38dc6fcc4bcbbb",
+    "https://dese.service-now.com/digitalsolutions?id=sc_category&sys_id=1b8611d5c3921200b0449f2974d3ae12",
+    "https://dese.service-now.com/digitalsolutions?id=sc_cat_item&sys_id=5d4fe52c870a8510f184edf83cbb3562",
+    "https:/providers.workforceaustralia.gov.au/ES/user-feedback/FS1",
+    "https://www.dewr.gov.au/using-site/privacy"
+  ]
+}
